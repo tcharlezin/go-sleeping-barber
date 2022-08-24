@@ -1,0 +1,2 @@
+# Colors
+go get github.com/fatih/color
